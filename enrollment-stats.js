@@ -35,8 +35,10 @@ module.exports = async () => {
                 credit_hrs: $(row[4]).text(),
                 days: $(row[5]).text(),
                 times: $(row[6]).text(),
-                reserved_majors: $(row[7]).text(),
-                enrolled: $(row[8]).text(),
+                reserved_majors: Number($(row[7]).text().split('/')[0].trim()),
+                reserved_majors_limit: Number($(row[7]).text().split('/')[1].trim()),
+                enrolled: Number($(row[8]).text().split('/')[0].trim()),
+                enrolled_limit: Number($(row[8]).text().split('/')[1].trim()),
             })
         }
         console.log(data)
