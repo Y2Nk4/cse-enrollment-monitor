@@ -36,7 +36,7 @@ module.exports = async () => {
                 days: $(row[5]).text(),
                 times: $(row[6]).text(),
                 reserved_majors: $(row[7]).text(),
-                enrolled: $(row[7]).text(),
+                enrolled: $(row[8]).text(),
             })
         }
         console.log(data)
