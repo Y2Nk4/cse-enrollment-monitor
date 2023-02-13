@@ -1,0 +1,301 @@
+course_number,title,instructor,type,credit_hrs,days,times,reserved_majors,reserved_majors_limit,enrolled,enrolled_limit
+CSE 111,Introduction to Quantitative Analysis and Reasoning with Computing,Kris D. Schindler,LAB,4.00,F,3:00PM-4:50PM,0,0,30,30
+CSE 111,Introduction to Quantitative Analysis and Reasoning with Computing,Kris D. Schindler,LAB,4.00,M,8:00AM-9:50AM,0,0,12,30
+CSE 111,Introduction to Quantitative Analysis and Reasoning with Computing,Staff,LAB,4.00,MW,8:30AM-10:30AM,28,60,28,60
+CSE 111,Introduction to Quantitative Analysis and Reasoning with Computing,Staff,LAB,4.00,MW,12:00PM-2:00PM,58,60,58,60
+CSE 111,Introduction to Quantitative Analysis and Reasoning with Computing,Staff,LAB,4.00,MW,3:30PM-5:30PM,47,60,47,60
+CSE 111,Introduction to Quantitative Analysis and Reasoning with Computing,Kris D. Schindler,LAB,4.00,T,2:00PM-3:50PM,0,0,28,28
+CSE 111,Introduction to Quantitative Analysis and Reasoning with Computing,Kris D. Schindler,LAB,4.00,T,5:00PM-6:50PM,0,0,18,29
+CSE 111,Introduction to Quantitative Analysis and Reasoning with Computing,Kris D. Schindler,LAB,4.00,W,8:00AM-9:50AM,0,0,6,25
+CSE 111,Introduction to Quantitative Analysis and Reasoning with Computing,Staff,LEC,4.00,ARR,Unknown,0,0,133,180
+CSE 111,Introduction to Quantitative Analysis and Reasoning with Computing,Kris D. Schindler,LEC,4.00,MWF,2:00PM-2:50PM,0,0,94,145
+CSE 115,Introduction to Computer Science I,Staff,LAB,4.00,ARR,Unknown,0,0,13,30
+CSE 115,Introduction to Computer Science I,Paul Dickson,LAB,4.00,F,1:00PM-2:50PM,0,0,0,0
+CSE 115,Introduction to Computer Science I,Paul Dickson,LAB,4.00,F,5:00PM-6:50PM,0,0,25,25
+CSE 115,Introduction to Computer Science I,Matthew Hertz,LAB,4.00,F,7:00PM-8:50PM,0,0,25,25
+CSE 115,Introduction to Computer Science I,Matthew Hertz,LAB,4.00,M,8:00AM-9:50AM,0,0,24,24
+CSE 115,Introduction to Computer Science I,Matthew Hertz,LAB,4.00,M,6:00PM-7:50PM,0,0,0,0
+CSE 115,Introduction to Computer Science I,Paul Dickson,LAB,4.00,R,8:00AM-9:50AM,0,0,22,25
+CSE 115,Introduction to Computer Science I,Matthew Hertz,LAB,4.00,R,11:00AM-12:50PM,0,0,25,25
+CSE 115,Introduction to Computer Science I,Matthew Hertz,LAB,4.00,R,8:00PM-9:50PM,0,0,0,0
+CSE 115,Introduction to Computer Science I,Matthew Hertz,LAB,4.00,T,8:00AM-9:50AM,0,0,24,25
+CSE 115,Introduction to Computer Science I,Matthew Hertz,LAB,4.00,T,11:00AM-12:50PM,0,0,25,25
+CSE 115,Introduction to Computer Science I,Matthew Hertz,LAB,4.00,T,2:00PM-3:50PM,0,0,24,25
+CSE 115,Introduction to Computer Science I,Matthew Hertz,LAB,4.00,T,5:00PM-6:50PM,0,0,25,25
+CSE 115,Introduction to Computer Science I,Matthew Hertz,LAB,4.00,T,8:00PM-9:50PM,0,0,24,24
+CSE 115,Introduction to Computer Science I,Matthew Hertz,LAB,4.00,W,8:00AM-9:50AM,0,0,25,25
+CSE 115,Introduction to Computer Science I,Paul Dickson,LAB,4.00,W,3:00PM-4:50PM,0,0,17,25
+CSE 115,Introduction to Computer Science I,Matthew Hertz,LAB,4.00,W,3:00PM-4:50PM,0,0,0,0
+CSE 115,Introduction to Computer Science I,Paul Dickson,LAB,4.00,W,5:00PM-6:50PM,0,0,25,25
+CSE 115,Introduction to Computer Science I,Paul Dickson,LAB,4.00,W,8:00PM-9:50PM,0,0,24,25
+CSE 115,Introduction to Computer Science I,Matthew Hertz,LEC,4.00,MWF,11:00AM-11:50AM,0,0,100,100
+CSE 115,Introduction to Computer Science I,Matthew Hertz,LEC,4.00,MWF,12:00PM-12:50PM,0,0,121,125
+CSE 115,Introduction to Computer Science I,Paul Dickson,LEC,4.00,MWF,1:00PM-1:50PM,0,0,113,150
+CSE 115,Introduction to Computer Science I,Staff,LEC,4.00,TR,3:30PM-5:30PM,0,0,13,30
+CSE 115,Introduction to Computer Science I,Staff,REC,4.00,ARR,Unknown,13,30,13,30
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,F,9:00AM-9:50AM,0,0,19,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,F,10:00AM-10:50AM,0,0,19,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,F,1:00PM-1:50PM,0,0,19,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,F,2:00PM-2:50PM,0,0,20,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,F,3:00PM-3:50PM,0,0,0,0
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,F,4:00PM-4:50PM,0,0,0,0
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,F,5:00PM-5:50PM,0,0,0,0
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,R,9:30AM-10:20AM,0,0,19,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,R,12:30PM-1:20PM,0,0,20,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,R,3:30PM-4:20PM,0,0,20,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,R,5:00PM-5:50PM,0,0,20,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,R,6:30PM-7:20PM,0,0,20,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,R,8:00PM-8:50PM,0,0,0,0
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,T,9:30AM-10:20AM,0,0,18,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,T,12:30PM-1:20PM,0,0,20,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,T,2:00PM-2:50PM,0,0,20,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,T,5:00PM-5:50PM,0,0,20,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,W,10:00AM-10:50AM,0,0,20,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,W,2:00PM-2:50PM,0,0,20,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,W,4:00PM-4:50PM,0,0,20,20
+CSE 115,Introduction to Computer Science I,Matthew Hertz,REC,4.00,W,5:00PM-5:50PM,0,0,20,20
+CSE 116,Introduction to Computer Science II,Paul Dickson,LAB,4.00,F,8:00AM-9:50AM,0,0,12,28
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LAB,4.00,F,10:00AM-11:50AM,0,0,28,28
+CSE 116,Introduction to Computer Science II,Paul Dickson,LAB,4.00,F,12:00PM-1:50PM,0,0,28,28
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LAB,4.00,F,2:00PM-3:50PM,0,0,28,28
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LAB,4.00,F,4:00PM-5:50PM,0,0,28,28
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LAB,4.00,F,6:00PM-7:50PM,0,0,28,28
+CSE 116,Introduction to Computer Science II,Paul Dickson,LAB,4.00,M,8:00AM-9:50AM,0,0,10,28
+CSE 116,Introduction to Computer Science II,Paul Dickson,LAB,4.00,M,10:00AM-11:50AM,0,0,28,28
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LAB,4.00,M,12:00PM-1:50PM,0,0,28,28
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LAB,4.00,M,2:00PM-3:50PM,0,0,28,28
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LAB,4.00,M,6:00PM-7:50PM,0,0,26,28
+CSE 116,Introduction to Computer Science II,Paul Dickson,LAB,4.00,M,8:00PM-9:50PM,0,0,28,28
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LAB,4.00,R,10:00AM-11:50AM,0,0,26,28
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LAB,4.00,R,12:00PM-1:50PM,0,0,27,28
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LAB,4.00,T,10:00AM-11:50AM,0,0,22,28
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LAB,4.00,W,8:00AM-9:50AM,0,0,28,28
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LAB,4.00,W,10:00AM-11:50AM,0,0,25,28
+CSE 116,Introduction to Computer Science II,Paul Dickson,LAB,4.00,W,12:00PM-1:50PM,0,0,28,28
+CSE 116,Introduction to Computer Science II,Paul Dickson,LAB,4.00,W,2:00PM-3:50PM,0,0,28,28
+CSE 116,Introduction to Computer Science II,Paul Dickson,LAB,4.00,W,7:00PM-8:50PM,0,0,24,28
+CSE 116,Introduction to Computer Science II,Paul Dickson,LEC,4.00,MWF,10:00AM-10:50AM,0,0,92,112
+CSE 116,Introduction to Computer Science II,Paul Dickson,LEC,4.00,MWF,12:00PM-12:50PM,0,0,94,112
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LEC,4.00,MWF,1:00PM-1:50PM,0,0,112,112
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LEC,4.00,MWF,2:00PM-2:50PM,0,0,103,112
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LEC,4.00,MWF,3:00PM-3:50PM,0,0,107,112
+CSE 191,Introduction to Discrete Structures,Eric Mikida,LEC,4.00,MWF,9:00AM-9:50AM,0,0,100,100
+CSE 191,Introduction to Discrete Structures,Nasrin Akhter,LEC,4.00,MWF,2:00PM-2:50PM,0,0,159,159
+CSE 191,Introduction to Discrete Structures,Matthew Knepley,LEC,4.00,TR,2:00PM-3:20PM,0,0,161,161
+CSE 191,Introduction to Discrete Structures,Nasrin Akhter,REC,4.00,F,5:00PM-5:50PM,0,0,52,52
+CSE 191,Introduction to Discrete Structures,Eric Mikida,REC,4.00,F,5:00PM-5:50PM,0,0,16,16
+CSE 191,Introduction to Discrete Structures,Matthew Knepley,REC,4.00,M,9:00AM-9:50AM,0,0,53,53
+CSE 191,Introduction to Discrete Structures,Eric Mikida,REC,4.00,M,3:00PM-3:50PM,0,0,45,45
+CSE 191,Introduction to Discrete Structures,Nasrin Akhter,REC,4.00,M,6:00PM-6:50PM,0,0,54,54
+CSE 191,Introduction to Discrete Structures,Matthew Knepley,REC,4.00,R,6:30PM-7:20PM,0,0,54,54
+CSE 191,Introduction to Discrete Structures,Matthew Knepley,REC,4.00,W,10:00AM-10:50AM,0,0,54,54
+CSE 191,Introduction to Discrete Structures,Nasrin Akhter,REC,4.00,W,12:00PM-12:50PM,0,0,53,53
+CSE 191,Introduction to Discrete Structures,Eric Mikida,REC,4.00,W,4:00PM-4:50PM,0,0,39,39
+CSE 220,Systems Programming,Ethan Blanton,LAB,4.00,R,8:00AM-10:00AM,0,0,25,25
+CSE 220,Systems Programming,Ethan Blanton,LAB,4.00,R,10:00AM-12:00PM,0,0,25,25
+CSE 220,Systems Programming,Ethan Blanton,LAB,4.00,R,12:30PM-2:30PM,0,0,25,25
+CSE 220,Systems Programming,Carl Alphonce,LAB,4.00,R,2:30PM-4:30PM,0,0,25,25
+CSE 220,Systems Programming,Ethan Blanton,LAB,4.00,R,5:00PM-7:00PM,0,0,25,25
+CSE 220,Systems Programming,Carl Alphonce,LAB,4.00,W,8:00AM-10:00AM,0,0,25,25
+CSE 220,Systems Programming,Carl Alphonce,LAB,4.00,W,10:00AM-12:00PM,0,0,25,25
+CSE 220,Systems Programming,Carl Alphonce,LAB,4.00,W,12:00PM-2:00PM,0,0,25,25
+CSE 220,Systems Programming,Carl Alphonce,LAB,4.00,W,2:00PM-4:00PM,0,0,25,25
+CSE 220,Systems Programming,Ethan Blanton,LAB,4.00,W,5:00PM-7:00PM,0,0,25,25
+CSE 220,Systems Programming,Ethan Blanton,LEC,4.00,MWF,9:00AM-9:50AM,0,0,125,125
+CSE 220,Systems Programming,Carl Alphonce,LEC,4.00,MWF,4:00PM-4:50PM,0,0,125,125
+CSE 241,Digital Systems,Jennifer Winikus,LAB,4.00,F,12:00PM-1:50PM,0,0,11,18
+CSE 241,Digital Systems,Jennifer Winikus,LAB,4.00,M,3:00PM-4:50PM,0,0,15,17
+CSE 241,Digital Systems,Jennifer Winikus,LAB,4.00,R,9:30AM-11:20AM,0,0,18,18
+CSE 241,Digital Systems,Jennifer Winikus,LAB,4.00,W,4:00PM-5:50PM,0,0,11,18
+CSE 241,Digital Systems,Jennifer Winikus,LEC,4.00,MWF,10:00AM-10:50AM,0,0,55,71
+CSE 250,Data Structures,Eric Mikida,LEC,4.00,MWF,1:00PM-1:50PM,0,0,226,235
+CSE 250,Data Structures,Eric Mikida,REC,4.00,M,9:00AM-9:50AM,0,0,3,25
+CSE 250,Data Structures,Eric Mikida,REC,4.00,M,2:00PM-2:50PM,0,0,26,26
+CSE 250,Data Structures,Eric Mikida,REC,4.00,M,3:00PM-3:50PM,0,0,26,26
+CSE 250,Data Structures,Eric Mikida,REC,4.00,M,4:00PM-4:50PM,0,0,26,26
+CSE 250,Data Structures,Eric Mikida,REC,4.00,M,5:00PM-5:50PM,0,0,26,26
+CSE 250,Data Structures,Eric Mikida,REC,4.00,T,12:00PM-12:50PM,0,0,16,25
+CSE 250,Data Structures,Eric Mikida,REC,4.00,T,1:00PM-1:50PM,0,0,26,26
+CSE 250,Data Structures,Eric Mikida,REC,4.00,T,4:00PM-4:50PM,0,0,26,26
+CSE 250,Data Structures,Eric Mikida,REC,4.00,T,5:00PM-5:50PM,0,0,26,26
+CSE 250,Data Structures,Eric Mikida,REC,4.00,T,6:00PM-6:50PM,0,0,25,26
+CSE 305,Introduction to Programming Languages,Kenneth W. Regan,LEC,4.00,TR,11:00AM-12:20PM,0,0,70,97
+CSE 305,Introduction to Programming Languages,Kenneth W. Regan,REC,4.00,M,1:00PM-1:50PM,0,0,23,26
+CSE 305,Introduction to Programming Languages,Kenneth W. Regan,REC,4.00,T,8:00AM-8:50AM,0,0,11,26
+CSE 305,Introduction to Programming Languages,Kenneth W. Regan,REC,4.00,T,2:00PM-2:50PM,0,0,24,26
+CSE 305,Introduction to Programming Languages,Kenneth W. Regan,REC,4.00,W,4:00PM-4:50PM,0,0,12,19
+CSE 306,Software Quality in Practice,Carl Alphonce,LAB,4.00,TR,2:00PM-4:00PM,0,0,26,25
+CSE 306,Software Quality in Practice,Carl Alphonce,LAB,4.00,TR,4:00PM-6:00PM,0,0,24,25
+CSE 306,Software Quality in Practice,Carl Alphonce,LAB,4.00,TR,6:00PM-8:00PM,0,0,24,25
+CSE 306,Software Quality in Practice,Carl Alphonce,LAB,4.00,TR,8:00PM-10:00PM,0,0,25,25
+CSE 306,Software Quality in Practice,Carl Alphonce,LEC,4.00,MW,8:00AM-8:50AM,0,0,99,100
+CSE 312,Introduction to Web Applications,Jesse L. Hartloff,LEC,4.00,MWF,4:00PM-4:50PM,0,0,120,120
+CSE 312,Introduction to Web Applications,Jesse L. Hartloff,REC,4.00,F,1:00PM-1:50PM,0,0,30,30
+CSE 312,Introduction to Web Applications,Jesse L. Hartloff,REC,4.00,F,2:00PM-2:50PM,0,0,31,30
+CSE 312,Introduction to Web Applications,Jesse L. Hartloff,REC,4.00,M,9:00AM-9:50AM,0,0,30,30
+CSE 312,Introduction to Web Applications,Jesse L. Hartloff,REC,4.00,T,9:30AM-10:20AM,0,0,29,30
+CSE 331,Algorithms and Complexity,Nasrin Akhter,LEC,4.00,MWF,10:00AM-10:50AM,0,0,99,104
+CSE 331,Algorithms and Complexity,Nasrin Akhter,LEC,4.00,MWF,12:00PM-12:50PM,0,0,114,114
+CSE 331,Algorithms and Complexity,Nasrin Akhter,REC,4.00,M,10:00AM-10:50AM,0,0,27,27
+CSE 331,Algorithms and Complexity,Nasrin Akhter,REC,4.00,M,4:00PM-4:50PM,0,0,30,30
+CSE 331,Algorithms and Complexity,Nasrin Akhter,REC,4.00,M,6:00PM-6:50PM,0,0,24,26
+CSE 331,Algorithms and Complexity,Nasrin Akhter,REC,4.00,T,9:30AM-10:20AM,0,0,25,26
+CSE 331,Algorithms and Complexity,Nasrin Akhter,REC,4.00,T,12:30PM-1:20PM,0,0,28,29
+CSE 331,Algorithms and Complexity,Nasrin Akhter,REC,4.00,T,5:00PM-5:50PM,0,0,24,26
+CSE 331,Algorithms and Complexity,Nasrin Akhter,REC,4.00,W,5:00PM-5:50PM,0,0,26,26
+CSE 331,Algorithms and Complexity,Nasrin Akhter,REC,4.00,W,5:00PM-5:50PM,0,0,29,28
+CSE 341,Computer Organization,Farshad Ghanei,LEC,4.00,TR,2:00PM-3:20PM,0,0,120,120
+CSE 341,Computer Organization,Farshad Ghanei,LEC,4.00,TR,5:00PM-6:20PM,0,0,119,120
+CSE 341,Computer Organization,Farshad Ghanei,REC,4.00,F,11:00AM-11:50AM,0,0,24,24
+CSE 341,Computer Organization,Farshad Ghanei,REC,4.00,F,6:30PM-7:20PM,0,0,24,24
+CSE 341,Computer Organization,Farshad Ghanei,REC,4.00,M,9:00AM-9:50AM,0,0,23,24
+CSE 341,Computer Organization,Farshad Ghanei,REC,4.00,M,10:00AM-10:50AM,0,0,24,24
+CSE 341,Computer Organization,Farshad Ghanei,REC,4.00,M,1:00PM-1:50PM,0,0,24,24
+CSE 341,Computer Organization,Farshad Ghanei,REC,4.00,R,8:00PM-8:50PM,0,0,24,24
+CSE 341,Computer Organization,Farshad Ghanei,REC,4.00,T,8:30AM-9:20AM,0,0,24,24
+CSE 341,Computer Organization,Farshad Ghanei,REC,4.00,T,9:30AM-10:20AM,0,0,24,24
+CSE 341,Computer Organization,Farshad Ghanei,REC,4.00,W,10:00AM-10:50AM,0,0,24,24
+CSE 341,Computer Organization,Farshad Ghanei,REC,4.00,W,1:00PM-1:50PM,0,0,24,24
+CSE 370,Applied Human Computer Interaction and Interface Design,Alan M. Hunt,LEC,4.00,MWF,2:00PM-2:50PM,0,0,62,62
+CSE 370,Applied Human Computer Interaction and Interface Design,Alan M. Hunt,REC,4.00,T,2:00PM-2:50PM,0,0,31,30
+CSE 370,Applied Human Computer Interaction and Interface Design,Alan M. Hunt,REC,4.00,T,3:00PM-3:50PM,0,0,31,31
+CSE 379,Introduction to Microprocessors,Kris D. Schindler,LAB,4.00,TR,12:30PM-1:50PM,0,0,23,21
+CSE 379,Introduction to Microprocessors,Kris D. Schindler,LAB,4.00,TR,2:00PM-3:20PM,0,0,20,21
+CSE 379,Introduction to Microprocessors,Kris D. Schindler,LAB,4.00,TR,5:00PM-6:20PM,0,0,21,21
+CSE 379,Introduction to Microprocessors,Kris D. Schindler,LAB,4.00,TR,6:30PM-7:50PM,0,0,19,22
+CSE 379,Introduction to Microprocessors,Kris D. Schindler,LEC,4.00,MWF,11:00AM-11:50AM,0,0,83,85
+CSE 404,Software Project Management,Alan M. Hunt,LEC,3.00,MWF,3:00PM-3:50PM,0,0,28,30
+CSE 404,Software Project Management,Alan M. Hunt,REC,3.00,F,6:00PM-6:50PM,0,2,3,2
+CSE 404,Software Project Management,Alan M. Hunt,REC,3.00,M,10:00AM-10:50AM,0,2,3,2
+CSE 404,Software Project Management,Alan M. Hunt,REC,3.00,M,11:00AM-11:50AM,0,2,3,2
+CSE 404,Software Project Management,Alan M. Hunt,REC,3.00,M,12:00PM-12:50PM,0,2,2,2
+CSE 404,Software Project Management,Alan M. Hunt,REC,3.00,M,1:00PM-1:50PM,0,2,2,2
+CSE 404,Software Project Management,Alan M. Hunt,REC,3.00,M,6:00PM-6:50PM,0,2,3,2
+CSE 404,Software Project Management,Alan M. Hunt,REC,3.00,T,11:00AM-11:50AM,0,2,2,2
+CSE 404,Software Project Management,Alan M. Hunt,REC,3.00,T,2:00PM-2:50PM,0,4,4,4
+CSE 404,Software Project Management,Alan M. Hunt,REC,3.00,T,3:00PM-3:50PM,0,4,6,4
+CSE 410,Special Topics: Computer Security,Ziming Zhao,LEC,1.00-3.00,MW,4:00PM-5:20PM,0,14,12,14
+CSE 410,Special Topics: Internet-Scale Systems Design,Matthew D. Stock,LEC,1.00-3.00,MWF,5:00PM-5:50PM,0,10,9,10
+CSE 421,Introduction to Operating Systems,Farshad Ghanei,LEC,3.00,TR,11:00AM-12:20PM,0,0,54,70
+CSE 426,Blockchain Application Development,Bina Ramamurthy,LEC,3.00,F,4:00PM-7:00PM,0,0,41,41
+CSE 427,Systems Security,Staff,LEC,3.00,R,6:30PM-9:30PM,0,12,15,12
+CSE 429,Algorithms for Modern Computing Systems,Russ Miller,LEC,3.00,TR,2:00PM-3:20PM,0,0,60,60
+CSE 431,Algorithms Analysis and Design,Thomas Hayes,LEC,3.00,MWF,9:00AM-9:50AM,0,0,33,33
+CSE 440,Machine Learning and Society for Majors,Atri Rudra,LEC,3.00,MW,10:00AM-11:20AM,0,12,9,12
+CSE 441,Machine Learning and Society for Non-Majors,Atri Rudra,LEC,3.00,MW,10:00AM-11:20AM,0,10,2,10
+CSE 442,Software Engineering,Matthew Hertz,LEC,4.00,MWF,3:00PM-3:50PM,0,0,169,169
+CSE 442,Software Engineering,Matthew Hertz,REC,4.00,F,6:00PM-6:50PM,0,0,19,20
+CSE 442,Software Engineering,Matthew Hertz,REC,4.00,M,10:00AM-10:50AM,0,0,19,20
+CSE 442,Software Engineering,Matthew Hertz,REC,4.00,M,11:00AM-11:50AM,0,0,18,20
+CSE 442,Software Engineering,Matthew Hertz,REC,4.00,M,12:00PM-12:50PM,0,0,19,20
+CSE 442,Software Engineering,Matthew Hertz,REC,4.00,M,1:00PM-1:50PM,0,0,18,20
+CSE 442,Software Engineering,Matthew Hertz,REC,4.00,M,6:00PM-6:50PM,0,0,18,20
+CSE 442,Software Engineering,Matthew Hertz,REC,4.00,T,11:00AM-11:50AM,0,0,19,20
+CSE 442,Software Engineering,Matthew Hertz,REC,4.00,T,2:00PM-2:50PM,0,0,19,20
+CSE 442,Software Engineering,Matthew Hertz,REC,4.00,T,3:00PM-3:50PM,0,0,20,20
+CSE 443,Compilers,Carl Alphonce,LEC,3.00,MWF,9:00AM-9:50AM,0,0,29,30
+CSE 445,Coding Theory,Atri Rudra,LEC,3.00,MWF,4:00PM-4:50PM,0,0,43,60
+CSE 446,Reinforcement Learning,Alina Vereshchaka,LEC,3.00,TR,12:30PM-1:50PM,0,0,13,15
+CSE 453,Hardware/Software Integrated Systems Design 2,Kris D. Schindler,LEC,3.00,MWF,12:00PM-12:50PM,0,0,30,40
+CSE 460,Data Models and Query Languages,Sreyasee Das Bhattacharjee,LEC,3.00,TR,9:30AM-10:50AM,0,0,3,3
+CSE 460,Data Models and Query Languages,Shamsad Parvin,LEC,3.00,TR,11:00AM-12:20PM,0,0,28,34
+CSE 462,Database Systems,Zhuoyue Zhao,LEC,3.00,TR,11:00AM-12:20PM,0,0,8,10
+CSE 467,Computational Linguistics,Staff,LEC,3.00,MW,4:00PM-4:50PM,0,0,28,29
+CSE 468,Robotics Algorithms,Karthik Dantu,LEC,3.00,MWF,4:00PM-4:50PM,0,0,17,35
+CSE 473,Introduction to Computer Vision and Image Processing,Chen Wang,LEC,3.00,TR,9:30AM-10:50AM,0,0,38,40
+CSE 473,Introduction to Computer Vision and Image Processing,David Doermann,LEC,3.00,TR,6:30PM-7:50PM,0,0,0,0
+CSE 474,Introduction to Machine Learning,Wen Dong,LEC,3.00,TR,3:30PM-4:50PM,0,0,46,47
+CSE 474,Introduction to Machine Learning,Alina Vereshchaka,LEC,3.00,TR,6:30PM-7:50PM,0,0,71,74
+CSE 486,Distributed Systems,Ethan Blanton,LEC,3.00,MWF,11:00AM-11:50AM,0,0,110,110
+CSE 487,Data Intensive Computing,Eric Mikida,LEC,3.00,MWF,11:00AM-11:50AM,0,0,13,14
+CSE 489,Modern Networking Concepts,Chunming Qiao,LEC,3.00,TR,2:00PM-3:20PM,0,0,49,53
+CSE 490,Computer Architecture,Ramalingam Sridhar,LEC,3.00,MWF,2:00PM-2:50PM,0,0,72,70
+CSE 492,Undergraduate Peer Mentoring,Alan M. Hunt,TUT,1.00-3.00,UNKWN,Unknown,0,10,0,10
+CSE 495,Supervised Teaching,Jesse L. Hartloff,TUT,1.00-4.00,UNKWN,Unknown,0,20,20,20
+CSE 495,Supervised Teaching,Ethan Blanton,TUT,1.00-4.00,UNKWN,Unknown,0,30,21,30
+CSE 495,Supervised Teaching,Lukasz Ziarek,TUT,1.00-4.00,UNKWN,Unknown,0,5,0,5
+CSE 495,Supervised Teaching,Ahmet Erdem Sariyuce,TUT,1.00-4.00,UNKWN,Unknown,0,15,0,15
+CSE 495,Supervised Teaching,Staff,TUT,1.00-4.00,UNKWN,Unknown,0,1,1,1
+CSE 495,Supervised Teaching,Ramalingam Sridhar,TUT,1.00-4.00,UNKWN,Unknown,0,10,3,10
+CSE 495,Supervised Teaching,Varun Chandola,TUT,1.00-4.00,UNKWN,Unknown,0,5,0,5
+CSE 495,Supervised Teaching,Eric Mikida,TUT,1.00-4.00,UNKWN,Unknown,0,30,15,30
+CSE 495,Supervised Teaching,Changyou Chen,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 495,Supervised Teaching,Wenyao Xu,TUT,1.00-4.00,UNKWN,Unknown,0,30,0,30
+CSE 495,Supervised Teaching,Kris D. Schindler,TUT,1.00-4.00,UNKWN,Unknown,0,15,14,15
+CSE 495,Supervised Teaching,Matthew Knepley,TUT,1.00-4.00,UNKWN,Unknown,0,10,1,10
+CSE 495,Supervised Teaching,Karthik Dantu,TUT,1.00-4.00,UNKWN,Unknown,0,1,1,1
+CSE 495,Supervised Teaching,Carl Alphonce,TUT,1.00-4.00,UNKWN,Unknown,0,10,5,10
+CSE 495,Supervised Teaching,Jaroslaw Zola,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 495,Supervised Teaching,Jennifer Winikus,TUT,1.00-4.00,UNKWN,Unknown,0,20,8,20
+CSE 495,Supervised Teaching,Farshad Ghanei,TUT,1.00-4.00,UNKWN,Unknown,0,10,8,10
+CSE 495,Supervised Teaching,Paul Dickson,TUT,1.00-4.00,UNKWN,Unknown,0,30,30,30
+CSE 495,Supervised Teaching,Kenneth W. Regan,TUT,1.00-4.00,UNKWN,Unknown,0,5,0,5
+CSE 495,Supervised Teaching,Sreyasee Das Bhattacharjee,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 495,Supervised Teaching,Matthew Hertz,TUT,1.00-4.00,UNKWN,Unknown,0,20,1,20
+CSE 495,Supervised Teaching,Nasrin Akhter,TUT,1.00-4.00,UNKWN,Unknown,0,10,25,10
+CSE 495,Supervised Teaching,Russ Miller,TUT,1.00-4.00,UNKWN,Unknown,0,10,1,10
+CSE 495,Supervised Teaching,Bina Ramamurthy,TUT,1.00-4.00,UNKWN,Unknown,0,10,2,10
+CSE 495,Supervised Teaching,Alan M. Hunt,TUT,1.00-4.00,UNKWN,Unknown,0,10,3,10
+CSE 496,Internship/Practicum,Ahmet Erdem Sariyuce,TUT,1.00-5.00,UNKWN,Unknown,0,10,11,10
+CSE 497,Departmental Honors Thesis or Project,Shi Li,TUT,3.00,UNKWN,Unknown,0,1,0,1
+CSE 498,Undergraduate Research and Creative Activity,Carl Alphonce,TUT,1.00-6.00,UNKWN,Unknown,0,5,0,5
+CSE 498,Undergraduate Research and Creative Activity,Ahmet Erdem Sariyuce,TUT,1.00-6.00,UNKWN,Unknown,0,5,0,5
+CSE 498,Undergraduate Research and Creative Activity,David Doermann,TUT,1.00-6.00,UNKWN,Unknown,0,10,1,10
+CSE 498,Undergraduate Research and Creative Activity,Bina Ramamurthy,TUT,1.00-6.00,UNKWN,Unknown,0,10,1,10
+CSE 498,Undergraduate Research and Creative Activity,Oliver Kennedy,TUT,1.00-6.00,UNKWN,Unknown,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Souma Chowdhury,TUT,1.00-6.00,UNKWN,Unknown,0,1,1,1
+CSE 498,Undergraduate Research and Creative Activity,Changyou Chen,TUT,1.00-6.00,UNKWN,Unknown,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Alan M. Hunt,TUT,1.00-6.00,UNKWN,Unknown,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Karthik Dantu,TUT,1.00-6.00,UNKWN,Unknown,0,5,0,5
+CSE 498,Undergraduate Research and Creative Activity,Ziming Zhao,TUT,1.00-6.00,UNKWN,Unknown,0,10,1,10
+CSE 498,Undergraduate Research and Creative Activity,Junsong Yuan,TUT,1.00-6.00,UNKWN,Unknown,0,1,0,1
+CSE 498,Undergraduate Research and Creative Activity,Siwei Lyu,TUT,1.00-6.00,UNKWN,Unknown,0,30,1,30
+CSE 498,Undergraduate Research and Creative Activity,Jinjun Xiong,TUT,1.00-6.00,UNKWN,Unknown,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Kris D. Schindler,TUT,1.00-6.00,UNKWN,Unknown,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Wenyao Xu,TUT,1.00-6.00,UNKWN,Unknown,0,5,3,5
+CSE 498,Undergraduate Research and Creative Activity,Varun Chandola,TUT,1.00-6.00,UNKWN,Unknown,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Lukasz Ziarek,TUT,1.00-6.00,UNKWN,Unknown,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Jennifer Winikus,TUT,1.00-6.00,UNKWN,Unknown,0,5,0,5
+CSE 498,Undergraduate Research and Creative Activity,Kenneth A. Joseph,TUT,1.00-6.00,UNKWN,Unknown,0,5,4,5
+CSE 498,Undergraduate Research and Creative Activity,Jaroslaw Zola,TUT,1.00-6.00,UNKWN,Unknown,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Chunming Qiao,TUT,1.00-6.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Alan M. Hunt,TUT,1.00-4.00,UNKWN,Unknown,0,15,1,15
+CSE 499,Independent Study,Russ Miller,TUT,1.00-4.00,UNKWN,Unknown,0,6,0,6
+CSE 499,Independent Study,Karthik Dantu,TUT,1.00-4.00,UNKWN,Unknown,0,15,0,15
+CSE 499,Independent Study,Sreyasee Das Bhattacharjee,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Ramalingam Sridhar,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Hongxin Hu,TUT,1.00-4.00,UNKWN,Unknown,0,10,1,10
+CSE 499,Independent Study,Marina Blanton,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Jaroslaw Zola,TUT,1.00-4.00,UNKWN,Unknown,0,20,1,20
+CSE 499,Independent Study,Kenneth A. Joseph,TUT,1.00-4.00,UNKWN,Unknown,0,10,2,10
+CSE 499,Independent Study,Kris D. Schindler,TUT,1.00-4.00,UNKWN,Unknown,0,12,2,12
+CSE 499,Independent Study,Ahmet Erdem Sariyuce,TUT,1.00-4.00,UNKWN,Unknown,0,3,0,3
+CSE 499,Independent Study,Matthew Knepley,TUT,1.00-4.00,UNKWN,Unknown,0,20,0,20
+CSE 499,Independent Study,Atri Rudra,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Jinhui Xu,TUT,1.00-4.00,UNKWN,Unknown,0,5,0,5
+CSE 499,Independent Study,Mingchen Gao,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Bina Ramamurthy,TUT,1.00-4.00,UNKWN,Unknown,0,5,0,5
+CSE 499,Independent Study,Lukasz Ziarek,TUT,1.00-4.00,UNKWN,Unknown,0,20,6,20
+CSE 499,Independent Study,Jennifer Winikus,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Chunming Qiao,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Varun Chandola,TUT,1.00-4.00,UNKWN,Unknown,0,15,0,15
+CSE 499,Independent Study,Ethan Blanton,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Shambhu J. Upadhyaya,TUT,1.00-4.00,UNKWN,Unknown,0,10,6,10
+CSE 499,Independent Study,Ifeoma O. Nwogu,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Tevfik Kosar,TUT,1.00-4.00,UNKWN,Unknown,0,15,0,15
+CSE 499,Independent Study,Wenyao Xu,TUT,1.00-4.00,UNKWN,Unknown,0,15,0,15
+CSE 499,Independent Study,Nalini Ratha,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Ziming Zhao,TUT,1.00-4.00,UNKWN,Unknown,0,30,0,30
+CSE 499,Independent Study,Murat Demirbas,TUT,1.00-4.00,UNKWN,Unknown,0,15,0,15
+CSE 499,Independent Study,Wen Dong,TUT,1.00-4.00,UNKWN,Unknown,0,20,0,20
+CSE 499,Independent Study,Jinjun Xiong,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Rohini K. Srihari,TUT,1.00-4.00,UNKWN,Unknown,0,5,0,5
+CSE 499,Independent Study,Carl Alphonce,TUT,1.00-4.00,UNKWN,Unknown,0,5,0,5
+CSE 499,Independent Study,Shi Li,TUT,1.00-4.00,UNKWN,Unknown,0,20,0,20
+CSE 499,Independent Study,Kenneth W. Regan,TUT,1.00-4.00,UNKWN,Unknown,0,5,0,5
+CSE 499,Independent Study,Siwei Lyu,TUT,1.00-4.00,UNKWN,Unknown,0,30,4,30
+CSE 499,Independent Study,Xin He,TUT,1.00-4.00,UNKWN,Unknown,0,5,0,5
+CSE 499,Independent Study,Matthew Hertz,TUT,1.00-4.00,UNKWN,Unknown,0,10,3,10
+CSE 499,Independent Study,Changyou Chen,TUT,1.00-4.00,UNKWN,Unknown,0,5,0,5
+CSE 499,Independent Study,Oliver Kennedy,TUT,1.00-4.00,UNKWN,Unknown,0,20,0,20
+CSE 499,Independent Study,Jesse L. Hartloff,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
