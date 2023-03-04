@@ -1,0 +1,58 @@
+course_number,title,instructor,type,credit_hrs,days,times,reserved_majors,reserved_majors_limit,enrolled,enrolled_limit
+CSE 115,Introduction to Computer Science I,Sean Mackay,LAB,4.00,M,12:50PM-2:40PM,0,0,1,30
+CSE 115,Introduction to Computer Science I,Sean Mackay,LAB,4.00,W,12:50PM-2:40PM,0,0,0,30
+CSE 115,Introduction to Computer Science I,Sean Mackay,LEC,4.00,MW,11:00AM-12:20PM,0,0,1,60
+CSE 115,Introduction to Computer Science I,Sean Mackay,REC,4.00,F,11:00AM-1:00PM,0,0,1,60
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LAB,4.00,TR,12:40PM-1:40PM,0,0,13,50
+CSE 116,Introduction to Computer Science II,Jesse L. Hartloff,LEC,4.00,TR,11:00AM-12:30PM,0,0,13,50
+CSE 191,Introduction to Discrete Structures,Nasrin Akhter,LEC,4.00,TR,2:00PM-4:10PM,0,0,10,50
+CSE 191,Introduction to Discrete Structures,Nasrin Akhter,REC,4.00,TR,4:20PM-5:30PM,0,0,10,50
+CSE 241,Digital Systems,Jennifer Winikus,LAB,4.00,TR,1:00PM-3:00PM,0,0,1,24
+CSE 241,Digital Systems,Jennifer Winikus,LEC,4.00,TR,9:00AM-12:00PM,0,0,1,24
+CSE 250,Data Structures,Sayem Khan,LEC,4.00,TR,9:30AM-11:30AM,0,0,18,45
+CSE 250,Data Structures,Sayem Khan,REC,4.00,TR,11:45AM-12:35PM,0,0,18,45
+CSE 305,Introduction to Programming Languages,Lukasz Ziarek,LEC,4.00,ASYN,Unknown,0,0,25,30
+CSE 305,Introduction to Programming Languages,Lukasz Ziarek,REC,4.00,UNKWN,Unknown,0,0,25,30
+CSE 331,Algorithms and Complexity,Dennis P. Murphy,LEC,4.00,ASYN,Unknown,0,0,16,40
+CSE 331,Algorithms and Complexity,Dennis P. Murphy,REC,4.00,R,1:00PM-2:00PM,0,0,16,50
+CSE 341,Computer Organization,Farshad Ghanei,LEC,4.00,T,1:00PM-4:00PM,0,0,17,60
+CSE 341,Computer Organization,Farshad Ghanei,REC,4.00,F,10:00AM-10:50AM,0,0,17,60
+CSE 379,Introduction to Microprocessors,Kris D. Schindler,LAB,4.00,TR,10:00AM-11:00AM,0,0,6,30
+CSE 379,Introduction to Microprocessors,Kris D. Schindler,LEC,4.00,TR,9:00AM-10:00AM,0,0,6,30
+CSE 396,Introduction to the Theory of Computation,Dennis P. Murphy,LEC,4.00,ASYN,Unknown,0,0,6,33
+CSE 396,Introduction to the Theory of Computation,Dennis P. Murphy,REC,4.00,F,1:00PM-2:00PM,0,0,6,33
+CSE 410,Special Topics: Emerging Technologies in Internet of Things and AI,Wenyao Xu,LEC,1.00-3.00,TR,10:00AM-11:15AM,0,30,0,30
+CSE 431,Algorithms Analysis and Design,Chen Xu,LEC,3.00,TR,10:00AM-11:20AM,0,0,0,15
+CSE 455,Introduction to Pattern Recognition,Jue Guo,LEC,3.00,TR,6:30PM-9:10PM,0,0,1,30
+CSE 473,Introduction to Computer Vision and Image Processing,Xuan Gong,LEC,3.00,MWF,1:00PM-3:05PM,0,0,0,30
+CSE 474,Introduction to Machine Learning,Nitin Vishal Kulkarni,LEC,3.00,MWF,5:30PM-7:35PM,0,0,3,30
+CSE 486,Distributed Systems,Salem Mohammed I Alqahtani,LEC,3.00,TR,10:00AM-11:20AM,0,0,1,30
+CSE 490,Computer Architecture,Wenyao Xu,LEC,3.00,T,1:00PM-4:30PM,0,0,1,30
+CSE 496,Internship/Practicum,Ahmet Erdem Sariyuce,TUT,1.00-5.00,ARR,12:00AM,0,20,0,20
+CSE 496,Internship/Practicum,Ahmet Erdem Sariyuce,TUT,1.00-5.00,ARR,12:00AM,0,20,0,20
+CSE 496,Internship/Practicum,Ahmet Erdem Sariyuce,TUT,1.00-5.00,UNKWN,Unknown,0,30,0,30
+CSE 496,Internship/Practicum,Ahmet Erdem Sariyuce,TUT,1.00-5.00,UNKWN,Unknown,0,2,0,2
+CSE 498,Undergraduate Research and Creative Activity,Bina Ramamurthy,TUT,1.00-6.00,ARR,Unknown,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Carl Alphonce,TUT,1.00-6.00,ARR,12:00AM,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Carl Alphonce,TUT,1.00-6.00,ARR,12:00AM,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Kris D. Schindler,TUT,1.00-6.00,ARR,12:00AM,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Kris D. Schindler,TUT,1.00-6.00,ARR,12:00AM,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Carl Alphonce,TUT,1.00-6.00,ARR,12:00AM,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Kris D. Schindler,TUT,1.00-6.00,ARR,12:00AM,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Kris D. Schindler,TUT,1.00-6.00,ARR,12:00AM,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Carl Alphonce,TUT,1.00-6.00,ARR,12:00AM,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Chunming Qiao,TUT,1.00-6.00,UNKWN,Unknown,0,5,0,5
+CSE 498,Undergraduate Research and Creative Activity,Jennifer Winikus,TUT,1.00-6.00,UNKWN,Unknown,0,5,0,5
+CSE 498,Undergraduate Research and Creative Activity,Bina Ramamurthy,TUT,1.00-6.00,UNKWN,Unknown,0,5,0,5
+CSE 498,Undergraduate Research and Creative Activity,Tevfik Kosar,TUT,1.00-6.00,UNKWN,Unknown,0,1,0,1
+CSE 499,Independent Study,Ramalingam Sridhar,TUT,1.00-4.00,ARR,12:00AM,0,10,0,10
+CSE 499,Independent Study,Kris D. Schindler,TUT,1.00-4.00,ARR,12:00AM,0,10,0,10
+CSE 499,Independent Study,Ramalingam Sridhar,TUT,1.00-4.00,ARR,12:00AM,0,10,0,10
+CSE 499,Independent Study,Ramalingam Sridhar,TUT,1.00-4.00,ARR,12:00AM,0,10,0,10
+CSE 499,Independent Study,Ramalingam Sridhar,TUT,1.00-4.00,ARR,12:00AM,0,10,0,10
+CSE 499,Independent Study,Shambhu J. Upadhyaya,TUT,1.00-4.00,ARR,12:00AM,0,10,0,10
+CSE 499,Independent Study,Oliver Kennedy,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Staff,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Oliver Kennedy,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Oliver Kennedy,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
+CSE 499,Independent Study,Michael F. Buckley,TUT,1.00-4.00,UNKWN,Unknown,0,10,0,10
