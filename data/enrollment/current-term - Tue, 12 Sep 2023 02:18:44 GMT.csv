@@ -1,0 +1,4 @@
+course_number,title,instructor,type,credit_hrs,days,times,reserved_majors,reserved_majors_limit,enrolled,enrolled_limit
+CSE 496,Internship/Practicum,Jinjun Xiong,TUT,1.00-5.00,UNKWN,Unknown,0,10,0,10
+CSE 498,Undergraduate Research and Creative Activity,Jaroslaw Zola,TUT,1.00-6.00,UNKWN,Unknown,0,1,0,1
+CSE 499,Independent Study,Bina Ramamurthy,TUT,1.00-4.00,UNKWN,Unknown,0,1,0,1
